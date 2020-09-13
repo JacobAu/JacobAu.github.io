@@ -3,7 +3,7 @@ body{
 }
 
 .bg-customIndex{
-    background-color: #ffb561;
+    background-color: #F1F1F1;
 }
 
 
@@ -53,7 +53,7 @@ body{
 
 .UWaterloo-link:hover{
     color :#761f9c;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .whitespace{
