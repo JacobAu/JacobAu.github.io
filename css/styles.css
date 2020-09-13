@@ -6,9 +6,6 @@ body{
     background-color: #ffb561;
 }
 
-.container{
-    padding-top: 3em;
-}
 
 .text-primary:hover{
     text-decoration: none;
@@ -51,9 +48,14 @@ body{
 .UWaterloo-link{
     color :inherit;
     transition:0.3s;
+    color : #ba31f5;
 }
 
 .UWaterloo-link:hover{
-    color :purple;
-    text-decoration: none;
+    color :#761f9c;
+    text-decoration: underline;
+}
+
+.whitespace{
+    padding-top : 10rem;
 }
