@@ -56,6 +56,14 @@ body{
     text-decoration: none;
 }
 
-.whitespace{
-    padding-top : 10rem;
+.container{
+    margin-top : 10rem;
+}
+
+.ECE-link{
+  color: inherit;
+}
+.ECE-link:hover{
+  text-decoration: none;
+  color: #E4B429	;
 }
