@@ -46,7 +46,6 @@ body{
 }
 
 .UWaterloo-link{
-    color :inherit;
     transition:0.3s;
     color : #ba31f5;
 }
@@ -62,6 +61,7 @@ body{
 
 .ECE-link{
   color: inherit;
+  transition:0.3s;
 }
 .ECE-link:hover{
   text-decoration: none;
