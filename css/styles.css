@@ -67,3 +67,18 @@ body{
   text-decoration: none;
   color: #E4B429	;
 }
+
+.body-item {
+    padding-top: 2rem;
+    padding-left: 5.5rem;
+}
+
+.body-item > .surpise-link {
+    color: #F1F1F1;
+    font-family: "Comic Sans MS", "Comic Sans"
+}
+
+.body-item > .surpise-link:hover {
+    color: red;
+    text-decoration: none;
+}
