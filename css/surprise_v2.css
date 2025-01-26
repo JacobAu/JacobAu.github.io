@@ -1,0 +1,35 @@
+body {
+  font-family: "Snell Roundhand";
+  background-color: #FFD1DC;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tenor-gif-embed {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.form>button {
+  /* width: 120px; */
+  border-radius: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Snell Roundhand";
+  padding: 10px;
+  background: #FFD1DC;
+  border: 2px, solid black;
+  margin-left: 10px;
+}
+
+.Jacob:hover {
+  color: #77CEFF;
+}
+
+.kmarx:hover {
+  color: #77CEFF;
+}
